@@ -19,6 +19,18 @@
     height: 3.5rem;
     background-color: rgba(0,0,0,0.4);
 }
+.bottom-row[b-g8o6n169oq] {
+    position: absolute;
+    bottom:0;
+    padding-bottom:10px;
+    text-align: right;
+    width: 100%;
+    padding-right: 28px;
+}
+.icon-MC[b-g8o6n169oq] {
+    width:auto;
+    height:auto;
+}
 
 .navbar-brand[b-g8o6n169oq] {
     font-size: 1.1rem;

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BlazorApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Allan Baker\\OneDrive - TRISTAR\\SQL Project\\BlazorApp\\wwwroot\\EGA.png",
+      "PackagePath": "staticwebassets\\EGA.png"
+    },
+    {
       "Id": "C:\\Users\\Allan Baker\\OneDrive - TRISTAR\\SQL Project\\BlazorApp\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },

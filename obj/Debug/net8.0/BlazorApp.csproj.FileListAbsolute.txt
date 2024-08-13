@@ -47,3 +47,15 @@ C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\S
 C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Syncfusion.ExcelExport.Net.dll
 C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Syncfusion.Licensing.dll
 C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Syncfusion.PdfExport.Net.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Blazorise.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Blazorise.Licensing.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Blazorise.Sidebar.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Allan Baker\OneDrive - TRISTAR\SQL Project\BlazorApp\bin\Debug\net8.0\Microsoft.JSInterop.dll

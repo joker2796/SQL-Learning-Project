@@ -1,17 +1,13 @@
 ﻿@rendermode InteractiveServer
-<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">CMIL</a>
-    </div>
-</div>
-        
+
 <div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
     <div class="px-3 nav-item">
         <NavLink class="nav-link" href="" Match=@NavLinkMatch.All>
-            <span class="oi oi-home" aria-hidden="true"></span> &#127968; Home
+        <img style="width:18px; height:18px;" src="/EGA.png">&nbsp
+        <span class="oi oi-plus" aria-hidden="true">CMIL</span>
         </NavLink>
     </div>
-    <div class="px-3 nav-item">
+    <div class="px-3 nav-item" style="cursor: pointer">
         <NavLink class="nav-link" @onclick="()=>expandInventoryManagement = !expandInventoryManagement" Match=@NavLinkMatch.All>
             <span class="oi oi-plus" aria-hidden="true"></span> &#x1F4CB; Inventory Management
         </NavLink>
@@ -36,12 +32,12 @@
             </ul>
         }
     </div>
-    <div class="px-3 nav-item">
+    <div class="px-3 nav-item" style="cursor: pointer">
         <NavLink class="nav-link" @onclick="()=>expandReports = !expandReports" Match=@NavLinkMatch.All>
             <span class="oi oi-plus" aria-hidden="true"></span> &#x1F4C8; Reports
         </NavLink>
         @if (expandReports)
-            {
+        {
             <ul>
                 <li>
                     <NavLink class="nav-link" href="1149s" Match=@NavLinkMatch.All>
@@ -58,7 +54,7 @@
     </div>
 </div>
 
-@code{
+@code {
     public bool expandReports { get; set; } = false;
     public bool expandInventoryManagement { get; set; } = false;
 }
